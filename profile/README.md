@@ -1,8 +1,14 @@
-# Websites
+![miblab](../_static/miblab.jpg)
+
+---
+
+# 🌐 Websites
 
 - [miblab.org](https://github.com/openmiblab/miblab). miblab main website.
+  
+---
 
-# Python packages
+# 🐍 Python packages
 
 In use - in order of maturity:
 
@@ -18,15 +24,18 @@ In use - in order of maturity:
 - **miblab-plot:** Plotting utilities used across miblab pipelines ([code](https://github.com/openmiblab/pckg-miblab-plot), [pypi](https://pypi.org/project/miblab-data-plot)).
 - **miblab-ssa:** Tools for statistical shape analysis ([code](https://github.com/openmiblab/pckg-miblab-ssa), [pypi](https://pypi.org/project/miblab-data-ssa)).
 
-Not in use:
+Work in progress - not in use:
 
 - **wezel:** GUI for DICOM read and write ([code](https://github.com/openmiblab/pckg-wezel), [pypi](https://pypi.org/project/wezel)).
 
-# Analysis pipelines
+
+---
+
+# 🧬 Analysis pipelines
 
 - [ppln-template](https://github.com/openmiblab/ppln-template): Template for a miblab pipeline.
 
-## The TRISTAN project: 
+#### The TRISTAN project
 
 Mature:
 
@@ -40,7 +49,7 @@ Work in progress - not functional:
 
 - [tristan-human-stage-1-processing](https://github.com/openmiblab/tristan-human-stage-1-processing): Image processing for human data.
 
-## The iBEAT project
+#### The iBEAT project
 
 Mature:
 
@@ -64,15 +73,21 @@ Work in progress - not functional:
 - [ppln-ibeat-dce](https://github.com/openmiblab/ppln-ibeat-dce): Magnetic resonance renography (v1)
 - [iBEAt-pipeline-dce](https://github.com/openmiblab/iBEAt-pipeline-dce): Magnetic resonance renography (duplicate)
 
-# Challenge(s)
+---
+
+# 🧩 Challenge(s)
 
 - [spiro-challenge](https://github.com/openmiblab/challenge-spiro): Fast mechanistic model inversion with deep-learning.
 
-# Education
+---
+
+# 🎓 Education
 
 - [tutorial-cluster](https://github.com/openmiblab/tutorial-cluster): Tutorial on HPC usage in Sheffield.
 - [case-studies](https://github.com/openmiblab/case-studies): End-to-end processing of individual cases
 
-# Papers
+---
+
+# 📚 Papers
 
 - [tristan-paper-first-in-human](https://github.com/openmiblab/tristan-paper-first-in-human): First in human paper
