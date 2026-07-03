@@ -2,13 +2,12 @@
 
 
 # Repositories
----
+
 
 ## 🌐 Websites
 
 - [miblab.org](https://github.com/openmiblab/miblab). miblab main website.
   
----
 
 ## 🐍 Python packages
 
@@ -31,7 +30,6 @@ Work in progress - not in use:
 - **wezel:** GUI for DICOM read and write ([code](https://github.com/openmiblab/pckg-wezel), [pypi](https://pypi.org/project/wezel)).
 
 
----
 
 ## 🧬 Analysis pipelines
 
@@ -75,20 +73,17 @@ Work in progress - not functional:
 - [ppln-ibeat-dce](https://github.com/openmiblab/ppln-ibeat-dce): Magnetic resonance renography (v1)
 - [iBEAt-pipeline-dce](https://github.com/openmiblab/iBEAt-pipeline-dce): Magnetic resonance renography (duplicate)
 
----
 
 ## 🧩 Challenge(s)
 
 - [spiro-challenge](https://github.com/openmiblab/challenge-spiro): Fast mechanistic model inversion with deep-learning.
 
----
 
 ## 🎓 Education
 
 - [tutorial-cluster](https://github.com/openmiblab/tutorial-cluster): Tutorial on HPC usage in Sheffield.
 - [case-studies](https://github.com/openmiblab/case-studies): End-to-end processing of individual cases
 
----
 
 ## 📚 Papers
 
