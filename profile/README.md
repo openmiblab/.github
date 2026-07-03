@@ -1,14 +1,16 @@
 ![miblab](../_static/miblab.jpg)
 
+
+# Repositories
 ---
 
-# 🌐 Websites
+## 🌐 Websites
 
 - [miblab.org](https://github.com/openmiblab/miblab). miblab main website.
   
 ---
 
-# 🐍 Python packages
+## 🐍 Python packages
 
 In use - in order of maturity:
 
@@ -31,7 +33,7 @@ Work in progress - not in use:
 
 ---
 
-# 🧬 Analysis pipelines
+## 🧬 Analysis pipelines
 
 - [ppln-template](https://github.com/openmiblab/ppln-template): Template for a miblab pipeline.
 
@@ -75,19 +77,19 @@ Work in progress - not functional:
 
 ---
 
-# 🧩 Challenge(s)
+## 🧩 Challenge(s)
 
 - [spiro-challenge](https://github.com/openmiblab/challenge-spiro): Fast mechanistic model inversion with deep-learning.
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
 - [tutorial-cluster](https://github.com/openmiblab/tutorial-cluster): Tutorial on HPC usage in Sheffield.
 - [case-studies](https://github.com/openmiblab/case-studies): End-to-end processing of individual cases
 
 ---
 
-# 📚 Papers
+## 📚 Papers
 
 - [tristan-paper-first-in-human](https://github.com/openmiblab/tristan-paper-first-in-human): First in human paper
