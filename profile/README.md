@@ -65,13 +65,15 @@ Work in progress - fully functional:
 
 Work in progress - not functional:
 
-- [ppln-ibeat-diff](https://github.com/openmiblab/ppln-ibeat-diff): Renal diffusion MRI
+- [ppln-ibeat-kidney_segmentator](https://github.com/openmiblab/ppln-ibeat-kidney_segmentator): Kidney segmentator development.
+- [ppln-ibeat-rsf_segmentator](https://github.com/openmiblab/ppln-ibeat-rsf_segmentator): Renal Sinus Fat segmentator development.
+- [ppln-ibeat-diff](https://github.com/openmiblab/ppln-ibeat-diff): Renal diffusion MRI.
 - [ppln-ibeat-data_clean](https://github.com/openmiblab/ppln-ibeat-data_clean): Dixon data cleaning.
-- [ppln-ibeat-t2star](https://github.com/openmiblab/ppln-ibeat-t2star): Kidney T2* in iBEAt
-- [iBEAt-dixon-pdff](https://github.com/openmiblab/iBEAt-dixon-pdff): PDFF calculation from iBEAt Dixon data
+- [ppln-ibeat-t2star](https://github.com/openmiblab/ppln-ibeat-t2star): Kidney T2* in iBEAt.
+- [iBEAt-dixon-pdff](https://github.com/openmiblab/iBEAt-dixon-pdff): PDFF calculation from iBEAt Dixon data.
 - [iBEAt-rsf](https://github.com/openmiblab/iBEAt-rsf): Renal sinus fat calculation.
-- [ppln-ibeat-dce](https://github.com/openmiblab/ppln-ibeat-dce): Magnetic resonance renography (v1)
-- [iBEAt-pipeline-dce](https://github.com/openmiblab/iBEAt-pipeline-dce): Magnetic resonance renography (duplicate)
+- [ppln-ibeat-dce](https://github.com/openmiblab/ppln-ibeat-dce): Magnetic resonance renography (v1).
+- [iBEAt-pipeline-dce](https://github.com/openmiblab/iBEAt-pipeline-dce): Magnetic resonance renography (duplicate).
 
 
 ## 🧩 Challenge(s)
