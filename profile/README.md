@@ -64,6 +64,7 @@ Work in progress - fully functional:
 
 Work in progress - not functional:
 
+- [ppln-ibeat-rsfseg](https://github.com/openmiblab/ppln-ibeat-rsfseg): Semi-automated generation of Renal Sinus Fat masks.
 - [ppln-ibeat-kidney_segmentator](https://github.com/openmiblab/ppln-ibeat-kidney_segmentator): Kidney segmentator development.
 - [ppln-ibeat-rsf_segmentator](https://github.com/openmiblab/ppln-ibeat-rsf_segmentator): Renal Sinus Fat segmentator development.
 - [ppln-ibeat-diff](https://github.com/openmiblab/ppln-ibeat-diff): Renal diffusion MRI.
