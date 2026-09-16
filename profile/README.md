@@ -73,6 +73,8 @@ Work in progress - not functional:
 - [iBEAt-dixon-pdff](https://github.com/openmiblab/iBEAt-dixon-pdff): PDFF calculation from iBEAt Dixon data.
 - [ppln-ibeat-dce](https://github.com/openmiblab/ppln-ibeat-dce): Magnetic resonance renography (v1).
 - [iBEAt-pipeline-dce](https://github.com/openmiblab/iBEAt-pipeline-dce): Magnetic resonance renography (duplicate).
+- [ppln-ibeat-totspineseg](https://github.com/openmiblab/ppln-ibeat-totspineseg): Semi-automated spinal cord and vertebrae segmentation on iBEAt Dixon data.
+- [ppln-ibeat-mt](https://github.com/openmiblab/ppln-ibeat-mt): Magnetisation Transfer Ratio (MTR) calculation from iBEAt MT data.
 
 
 ## 🧩 Challenge(s)
