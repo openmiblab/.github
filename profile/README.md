@@ -71,7 +71,7 @@ Work in progress - not functional:
 - [ppln-ibeat-data_clean](https://github.com/openmiblab/ppln-ibeat-data_clean): Dixon data cleaning.
 - [ppln-ibeat-t2star](https://github.com/openmiblab/ppln-ibeat-t2star): Kidney T2* in iBEAt.
 - [iBEAt-dixon-pdff](https://github.com/openmiblab/iBEAt-dixon-pdff): PDFF calculation from iBEAt Dixon data.
-- [ppln-ibeat-dce](https://github.com/openmiblab/ppln-ibeat-dce): Magnetic resonance renography (v1).
+- [ppln-ibeat-dce](https://github.com/openmiblab/ppln-ibeat-dce): Magnetic resonance renography.
 
 
 ## 🧩 Challenge(s)
