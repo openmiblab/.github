@@ -72,6 +72,7 @@ Work in progress - not functional:
 - [ppln-ibeat-t2star](https://github.com/openmiblab/ppln-ibeat-t2star): Kidney T2* in iBEAt.
 - [iBEAt-dixon-pdff](https://github.com/openmiblab/iBEAt-dixon-pdff): PDFF calculation from iBEAt Dixon data.
 - [ppln-ibeat-dce](https://github.com/openmiblab/ppln-ibeat-dce): Magnetic resonance renography (v1).
+- [iBEAt-pipeline-dce](https://github.com/openmiblab/iBEAt-pipeline-dce): Magnetic resonance renography (duplicate).
 
 
 ## 🧩 Challenge(s)
