@@ -53,7 +53,7 @@ Work in progress - not functional:
 
 Mature:
 
-- [iBEAt-fatwater](https://github.com/openmiblab/iBEAt-fatwater): Model training for fat-water mapping.
+- [ppln-ibeat-fatwater](https://github.com/openmiblab/ppln-ibeat-fatwater): Model training for fat-water mapping.
 - [ppln-ibeat-dixon](https://github.com/openmiblab/ppln-ibeat-dixon): Creating a clean Dixon database.
 - [ppln-ibeat-totseg](https://github.com/openmiblab/ppln-ibeat-totseg): Total segmentation of organs on iBEAT Dixon data.
 
@@ -64,14 +64,18 @@ Work in progress - fully functional:
 
 Work in progress - not functional:
 
-- [ppln-ibeat-rsfseg](https://github.com/openmiblab/ppln-ibeat-rsfseg): Semi-automated generation of Renal Sinus Fat masks.
 - [ppln-ibeat-kidney_segmentator](https://github.com/openmiblab/ppln-ibeat-kidney_segmentator): Kidney segmentator development.
-- [ppln-ibeat-rsf_segmentator](https://github.com/openmiblab/ppln-ibeat-rsf_segmentator): Renal Sinus Fat segmentator development.
+- [ppln-ibeat-rsfseg](https://github.com/openmiblab/ppln-ibeat-rsfseg): Renal Sinus Fat segmentator development.
+- [ppln-ibeat-cyst](https://github.com/openmiblab/ppln-ibeat-cyst): Kidney cysts analysis.
+- [ppln-ibeat-cmseg](https://github.com/openmiblab/ppln-ibeat-cmseg): Cortex-medulla segmentation.
 - [ppln-ibeat-diff](https://github.com/openmiblab/ppln-ibeat-diff): Renal diffusion MRI.
 - [ppln-ibeat-data_clean](https://github.com/openmiblab/ppln-ibeat-data_clean): Dixon data cleaning.
 - [ppln-ibeat-t2star](https://github.com/openmiblab/ppln-ibeat-t2star): Kidney T2* in iBEAt.
-- [iBEAt-dixon-pdff](https://github.com/openmiblab/iBEAt-dixon-pdff): PDFF calculation from iBEAt Dixon data.
+- [ppln-ibeat-mt](https://github.com/openmiblab/ppln-ibeat-mt): Magnetization transfer.
+- [ppln-ibeat-dixon_pdff](https://github.com/openmiblab/ppln-ibeat-dixon_pdff): PDFF calculation from iBEAt Dixon data.
 - [ppln-ibeat-dce](https://github.com/openmiblab/ppln-ibeat-dce): Magnetic resonance renography.
+- [ppln-ibeat-totspineseg](https://github.com/openmiblab/ppln-ibeat-dce): Spinal chord segmentation.
+- [ppln-ibeat-analysis](https://github.com/openmiblab/ppln-ibeat-analysis): Data analysis and reporting (private)
 
 
 ## 🧩 Challenge(s)
