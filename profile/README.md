@@ -13,7 +13,7 @@
 
 In use - in order of maturity:
 
-- **dcmri:** Modelling and analysing dynamic contrast MRI ([code](https://github.com/dcmri/dcmri), [docs](https://github.com/dcmri/dcmri-docs), [web](https://dcmri.org/), [pypi](https://pypi.org/project/dcmri)).
+- **dcmri:** Modelling and analysing dynamic contrast MRI ([code](https://github.com/dcmri/dcmri), [docs](https://github.com/dcmri/dcmri-docs), [ntbk](https://github.com/openmiblab/ntbk-dcmri), [web](https://dcmri.org/), [pypi](https://pypi.org/project/dcmri)).
 - **mdreg:** Model-driven image registration ([code](https://github.com/openmiblab/pckg-mdreg), [docs](https://github.com/openmiblab/docs-mdreg), [web](https://openmiblab.github.io/docs-mdreg), [pypi](https://pypi.org/project/mdreg)).
 - **vreg:** Multidimensional arrays with spatial awareness ([code](https://github.com/openmiblab/pckg-vreg), [docs](https://github.com/openmiblab/docs-vreg), [web](https://openmiblab.github.io/docs-vreg), [pypi](https://pypi.org/project/vreg)).
 - **numpyradiomics:** A pythonic reimplementation of the pyradiomics package ([code](https://github.com/openmiblab/pckg-numpyradiomics), [docs](https://github.com/openmiblab/docs-numpyradiomics), [web](https://openmiblab.github.io/docs-numpyradiomics), [pypi](https://pypi.org/project/numpyradiomics)).
@@ -83,10 +83,9 @@ Work in progress - not functional:
 - [spiro-challenge](https://github.com/openmiblab/challenge-spiro): Fast mechanistic model inversion with deep-learning.
 
 
-## 🎓 Education
+## 🎓 Notebooks
 
-- [tutorial-cluster](https://github.com/openmiblab/tutorial-cluster): Tutorial on HPC usage in Sheffield.
-- [case-studies](https://github.com/openmiblab/case-studies): End-to-end processing of individual cases
+- [ntbk-hpc](https://github.com/openmiblab/ntbk-hpc): Tutorial on HPC usage in Sheffield.
 
 
 ## 📚 Papers
