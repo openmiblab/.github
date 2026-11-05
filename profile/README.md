@@ -74,7 +74,7 @@ Work in progress - not functional:
 - [ppln-ibeat-mt](https://github.com/openmiblab/ppln-ibeat-mt): Magnetization transfer.
 - [ppln-ibeat-dixon_pdff](https://github.com/openmiblab/ppln-ibeat-dixon_pdff): PDFF calculation from iBEAt Dixon data.
 - [ppln-ibeat-dce](https://github.com/openmiblab/ppln-ibeat-dce): Magnetic resonance renography.
-- [ppln-ibeat-totspineseg](https://github.com/openmiblab/ppln-ibeat-dce): Spinal chord segmentation.
+- [ppln-ibeat-totspineseg](https://github.com/openmiblab/ppln-ibeat-totspineseg): Spinal cord segmentation.
 - [ppln-ibeat-analysis](https://github.com/openmiblab/ppln-ibeat-analysis): Data analysis and reporting (private)
 
 
