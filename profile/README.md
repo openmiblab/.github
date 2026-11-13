@@ -76,6 +76,12 @@ Work in progress - not functional:
 - [ppln-ibeat-dce](https://github.com/openmiblab/ppln-ibeat-dce): Magnetic resonance renography.
 - [ppln-ibeat-totspineseg](https://github.com/openmiblab/ppln-ibeat-totspineseg): Spinal cord segmentation.
 - [ppln-ibeat-analysis](https://github.com/openmiblab/ppln-ibeat-analysis): Data analysis and reporting (private)
+  
+#### The HEPARIM project
+
+Work in progress - not functional:
+
+- [ppln-heparim](https://github.com/openmiblab/ppln-heparim): Main analysis pipeline for HEPARIM data.
 
 
 ## 🧩 Challenge(s)
